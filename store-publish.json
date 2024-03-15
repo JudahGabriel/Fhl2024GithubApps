@@ -24,6 +24,31 @@
             "publisherName": "Notepad++",
             "publisherUrl": "https://notepad-plus-plus.org/",
             "publisherContact": "https://notepad-plus-plus.org/author"
+        },
+         {
+            "name": "Insomnia",
+            "iconUri": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/insomnia-icon.png",
+            "description": "Insomnia is an open-source, cross-platform API client for GraphQL, REST, WebSockets, Server-sent events (SSE), gRPC and any other HTTP compatible protocol",
+            "categories": [
+                "developer tools",
+                "utilities"
+            ],
+            "platform": "windows",
+            "architectures": [
+                "x64"
+            ],
+            "type": "zip",
+            "file": "https://github.com/Kong/insomnia/releases/download/lib%408.6.1/inso-windows-8.6.1.zip",
+            "screenshots": [
+                {
+                    "url": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/insomnia-screenshot.png"
+                }
+            ],
+            "releaseNotes": "WebSocket default headers are now shown as read-only in the UI (Make websocket immutable headers read-only in the UI #6872) @abluetuba",
+            "privacyPolicyUrl": "https://insomnia.rest/privacy",
+            "publisherName": "Insomnia REST Client Team",
+            "publisherUrl": "https://insomnia.rest",
+            "publisherContact": "https://insomnia.rest"
         }
     ]
 }
