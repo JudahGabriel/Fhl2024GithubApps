@@ -16,7 +16,7 @@
             "file": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.4/npp.8.6.4.Installer.x64.exe",
             "screenshots": [
                 {
-                    "url": "https://notepad-plus-plus.org/assets/images/notepad4ever.png",
+                    "url": "https://notepad-plus-plus.org/assets/images/notepad4ever.png"
                 }
             ],
             "releaseNotes": "We recognize that not every user loves the multi-editing feature. In this release, we’ve added GUI options to disable the “Column To Multi-editing” feature, and even the “Multi-editing” feature can be turned off completely. Additionally, users can disable the “copy/cut line while no selection” feature through the preferences dialog.",
