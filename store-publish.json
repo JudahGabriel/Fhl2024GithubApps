@@ -49,6 +49,30 @@
             "publisherName": "Insomnia REST Client Team",
             "publisherUrl": "https://insomnia.rest",
             "publisherContact": "https://insomnia.rest"
+        },
+         {
+            "name": "Free Office",
+            "iconUri": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/freeoffice-icon.png",
+            "description": "FreeOffice is a complete Office suite with a word processor, a spreadsheet application and a presentation program – all seamlessly compatible with their counterparts in Microsoft Office (Word, Excel and PowerPoint).",
+            "categories": [
+                "productivity"
+            ],
+            "platform": "windows",
+            "architectures": [
+                "x64"
+            ],
+            "type": "msi",
+            "file": "https://www.freeoffice.com/download.php?filename=https://www.softmaker.net/down/freeoffice2021.msi",
+            "screenshots": [
+                {
+                    "url": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/freeoffice-screenshot.png"
+                }
+            ],
+            "releaseNotes": "Testing out new stuff!",
+            "privacyPolicyUrl": "https://www.freeoffice.com/en/privacy-policy",
+            "publisherName": "FreeOffice",
+            "publisherUrl": "https://www.freeoffice.com",
+            "publisherContact": "https://www.freeoffice.com"
         }
     ]
 }
