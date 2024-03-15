@@ -65,7 +65,10 @@
             "file": "https://www.freeoffice.com/download.php?filename=https://www.softmaker.net/down/freeoffice2021.msi",
             "screenshots": [
                 {
-                    "url": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/freeoffice-screenshot.png"
+                    "url": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/freeoffice-screenshot.jpg"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/freeoffice-screenshot-2.jpg"
                 }
             ],
             "releaseNotes": "Testing out new stuff!",
@@ -73,6 +76,33 @@
             "publisherName": "FreeOffice",
             "publisherUrl": "https://www.freeoffice.com",
             "publisherContact": "https://www.freeoffice.com"
+        },
+        {
+            "name": "0 A.D.",
+            "iconUri": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/0ad-icon.jpg",
+            "description": "A free, open source game of ancient warfare.",
+            "categories": [
+                "Action & adventure"
+            ],
+            "platform": "windows",
+            "architectures": [
+                "x64"
+            ],
+            "type": "exe",
+            "file": "https://releases.wildfiregames.com/0ad-0.0.26-alpha-win32.exe",
+            "screenshots": [
+                {
+                    "url": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/0ad-screenshot-1.jpg"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/JudahGabriel/Fhl2024GithubApps/main/0ad-screenshot-2.jpg"
+                }
+            ],
+            "releaseNotes": "Wildfire Games, an international group of volunteer game developers, proudly announces the release of 0 A.D. Alpha 26: “Zhuangzi” (pronounced: /ˈʒwæŋˈziː/), the twenty-sixth alpha version of 0 A.D., a free, open-source real-time strategy game of ancient warfare. The release is named after the ancient Chinese philosopher Zhuang Zhou, who is better known as Zhuangzi and who wrote one of the most influential texts in Taoism!",
+            "privacyPolicyUrl": "https://play0ad.com",
+            "publisherName": "0 A.D.",
+            "publisherUrl": "https://play0ad.com/",
+            "publisherContact": "https://play0ad.com"
         }
     ]
 }
